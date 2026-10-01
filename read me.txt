@@ -1,0 +1,2 @@
+The data associated with this work are available via Baidu Netdisk https://pan.baidu.com/s/1l0d4Oi-qbPgror0_Q-2fZA（access code: feng). If you use the proposed method in your research, please cite the following article:
+F. Kong et al., “Cross-Modal Consistency-Guided Information Fusion for Hyperspectral and LiDAR Classification,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 19, pp. 25977–25997, 2026, doi: 10.1109/JSTARS.2026.3719189.
